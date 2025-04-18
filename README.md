@@ -15,6 +15,7 @@
 ---
 
 ### ⚙️ Requirements:
+
 ```python
 pip install loguru requests
 ```
@@ -46,4 +47,5 @@ Account creation successful, user12345678@gmail.com:user12345678:YourSecurePass!
 ---
 
 ### ⚠️ Disclaimer
+
 This project has been developed for educational purposes only. Unauthorized system access is strictly prohibited and constitutes a criminal offense. The developer cannot be held responsible for any misuse.
